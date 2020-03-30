@@ -1,0 +1,2 @@
+﻿Homework 01:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/made_nlp_course/blob/master/homeworks/homework01/homework01_texts.ipynb)
