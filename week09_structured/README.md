@@ -5,3 +5,6 @@ Further readings:
 
 * Blog post on PoS tagging: [link](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
 * Stanford CS224n lecture on dependency parsing: [link](https://youtu.be/nC9_RfjYwqA)
+* DeepPavlov models for Q&A: http://docs.deeppavlov.ai/en/master/features/models/squad.html?highlight=squad
+* SberQuAD paper: [link](https://arxiv.org/pdf/1912.09723.pdf)
+* SQuAD leaderboard: https://rajpurkar.github.io/SQuAD-explorer/
