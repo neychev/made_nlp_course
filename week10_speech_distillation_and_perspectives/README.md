@@ -1,5 +1,5 @@
 Question anwering and Speech generation:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/made_nlp_course/blob/master/week10_speech_distillation_and_perspectives/week10_Question_Answering_with_a_Fine_Tuned_BERT_and_TTS.ipynb)
 
 Further readings:
 
