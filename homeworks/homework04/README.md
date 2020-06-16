@@ -1,3 +1,5 @@
+#### Homework04: QA system
+
 In this homework your goal is to build the QA system for Russian language using the [SberQuAD dataset](https://arxiv.org/pdf/1912.09723.pdf). The preprocessing code and baseline solution (BiDAF) are the slightly adapted version of the [Stanford CS224n Starter code](https://github.com/chrischute/squad).
 
 The starting point of this assighnment is the `SberQuAD_preprocessing_and_problem_statement.ipynb` notebook.
@@ -8,9 +10,10 @@ You may choose either this assignment or the `homework05` on the Image Captionin
 
 Next comes the original instructions from the https://github.com/chrischute/squad repository.
 
+P.s. Downgrading PyTorch is not required, starter code works fine on PyTorch 1.4
+P.p.s. If you are running in Colab, mount your Google Drive and store the checkpoints/word vectors there. [Official instruction](https://colab.research.google.com/notebooks/io.ipynb), [Habr post](https://habr.com/ru/post/348058/). Restarting the kernel after you finished the preprocessing (and saved the data to your disk) might be a good idea to release the memory.
 
-
-### Setup
+#### Setup
 
 1. Make sure you have [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed
     1. Conda is a package manager that sandboxes your project’s dependencies in a virtual environment
