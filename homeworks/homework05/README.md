@@ -2,7 +2,7 @@ If you love Computer Vision, or if the homework04 seems a bit too complex, you m
 
 The Image Captioning assignment has _basic_ (just LSTM) and _advanced_ (LSTM with attention/Transformer/...)  modes. The _advanced_ one requires much more disk space, so it's a good idea to start from _basic_ one.
 
-Solving _basic_ part is enougth, although _advanced_ will give you more challenge (and points ;) )
+Solving _basic_ part is enough, although _advanced_ will give you more challenge (and points ;) )
 
 
 
