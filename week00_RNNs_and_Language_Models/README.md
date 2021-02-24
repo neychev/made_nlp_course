@@ -1,5 +1,5 @@
 ﻿RNN from scratch for names generation:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/neychev/made_nlp_course/spring2021/week00_RNNs_and_Language_Models/practice_rnn_from_scratch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/made_nlp_course/spring2021/week00_RNNs_and_Language_Models/practice_rnn_from_scratch.ipynb)
 
 Further readings:
 1. What Every Computer Scientist Should Know About Floating-Point Arithmetic: https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
