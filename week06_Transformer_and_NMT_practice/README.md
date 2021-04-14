@@ -1,3 +1,7 @@
+Positional Encoding illustrated:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/made_nlp_course/blob/spring2021/week06_Transformer_and_NMT_practice/positional_encoding_carriers.ipynb)
+
+
 Neural Machine Translation as seq2sec:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/made_nlp_course/blob/spring2021/week06_Transformer_and_NMT_practice/practice_seq2seq_NMT_and_tensorboard.ipynb)
 
