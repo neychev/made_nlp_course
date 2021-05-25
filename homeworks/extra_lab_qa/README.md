@@ -3,7 +3,7 @@
 In this homework your goal is to build the QA system for Russian language using the [SberQuAD dataset](https://arxiv.org/pdf/1912.09723.pdf). The preprocessing code and baseline solution (BiDAF) are the slightly adapted version of the [Stanford CS224n Starter code](https://github.com/chrischute/squad).
 
 The starting point of this assighnment is the `SberQuAD_preprocessing_and_problem_statement.ipynb` notebook.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/neychev/made_nlp_course/blob/spring2021/homeworks/extra_lab_qa/sberquad_preprocessing_and_problem_statement.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/made_nlp_course/blob/spring2021/homeworks/extra_lab_qa/sberquad_preprocessing_and_problem_statement.ipynb)
 
 
 Next comes the original instructions from the https://github.com/chrischute/squad repository.
