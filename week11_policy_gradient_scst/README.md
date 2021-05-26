@@ -1,5 +1,5 @@
 RL for seq2seq practice:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/made_nlp_course/blob/spring2021/week11_policy_gradient_scst/practice_RL_for_seq2sec.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/made_nlp_course/blob/spring2021/week11_policy_gradient_scst/practice_RL_for_seq2sec_1.ipynb)
 
 
 
